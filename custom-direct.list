@@ -1,2 +1,5 @@
 DOMAIN,git.m.ac
 DOMAIN-SUFFIX,localhost.mock.directory
+DOMAIN,s3-de-fra2.baoshuo.dev
+DOMAIN,s3-de-fra2-admin.baoshuo.dev
+DOMAIN,share.baoshuo.dev
