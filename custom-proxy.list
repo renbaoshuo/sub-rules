@@ -1,4 +1,7 @@
 # 自定义规则
-
 DOMAIN,jsd.baoshuo.ren
 DOMAIN-SUFFIX,acg.mn
+
+# Google
+DOMAIN,services.googleapis.cn
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
