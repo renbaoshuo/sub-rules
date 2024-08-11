@@ -1,4 +1,7 @@
 DOMAIN,git.m.ac
+DOMAIN,smtp.gmail.com
+DOMAIN,imap.gmail.com
+DOMAIN,pop.gmail.com
 DOMAIN-SUFFIX,localhost.mock.directory
 DOMAIN,s3-de-fra2.baoshuo.dev
 DOMAIN,s3-de-fra2-admin.baoshuo.dev
