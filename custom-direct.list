@@ -12,3 +12,5 @@ DOMAIN,localhost.sec.qq.com
 DOMAIN,mtalk.google.com
 DOMAIN,dcg.microsoft.com
 DOMAIN,lcs-cops.adobe.io
+
+PROCESS-NAME,WeChat
